@@ -37,5 +37,5 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 
 ## Live Link
- [My portoflio page](https://react-portfolio-vcap.herokuapp.com/portfolio)
+ [My portoflio page](https://react-portfolio-vcap.herokuapp.com/)
 
