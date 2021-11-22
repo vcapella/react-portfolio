@@ -9,8 +9,8 @@
 }
 
 .contact-format {
-  display: flex;
-  margin-left: 6.5%;
+  display: inline-flex;
+  margin-left: 220px;
   height: 200px;
   width: 200px;
 }
