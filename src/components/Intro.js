@@ -28,9 +28,8 @@ function Intro() {
       <br></br>
       <h2>Hello!</h2>
       <p>
-        My name is Victor Capella and I'm a junior web developer, living in
-        Toronto, Canada and looking forward for my first opportunity as a
-        developer.
+        My name is Victor Capella, I'm a junior web developer living in Toronto,
+        Canada and looking forward to my first opportunity as a developer.
       </p>
       <p>Passionate about Science 🔬, Soccer ⚽️ and Counter-Strike 🎮. </p>
       <br></br>
