@@ -1,0 +1,25 @@
+/* Universal Selector */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  color: black;
+  background-color: #fff;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: 0 auto;
+  align-items: center;
+}
+
+.flex {
+  flex: 1 1 400px;
+  justify-content: space-between;
+  margin: 20px 40px;
+  cursor: pointer;
+  transition: 0.5s;
+}

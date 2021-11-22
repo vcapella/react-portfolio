@@ -1,0 +1,32 @@
+/* Universal Selector */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  color: black;
+  background-color: #fff;
+  font-family: "Courier New", Courier, monospace;
+}
+
+h2 {
+  font-size: 30px;
+  text-indent: 12.4%;
+  line-height: 1.5;
+  border-top: 10px;
+}
+
+p {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+  text-indent: 0%;
+  line-height: 1.5;
+  margin-left: 240px;
+  margin-right: 240px;
+  margin-top: 27px;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  border-radius: 10px;
+}

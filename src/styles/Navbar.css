@@ -1,0 +1,30 @@
+/* Universal Selector */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  color: rgb(0, 0, 0);
+  background-color: #fff;
+  font-family: "Courier New", Courier, monospace;
+}
+
+a {
+  font-size: 20px;
+  text-decoration: none;
+}
+
+nav {
+  list-style: none;
+  display: inline-block;
+  padding: 0px 150px 5px;
+  align-items: center;
+}
+
+nav a {
+  transition: all 0.3s ease 0s;
+}
+nav a:hover {
+  transition: all 0.3s ease 0s;
+  color: rgb(82, 71, 71);
+  text-decoration: underline;
+}
