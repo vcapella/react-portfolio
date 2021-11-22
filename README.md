@@ -1,10 +1,9 @@
 # React Portfolio Project
 
-## PROJECT DESCRIPTION
+### PROJECT DESCRIPTION
 
-This project consisted an update on my portfolio page.
-
-In this page I will work with React JS tools to build my new portfolio page.
+This project consisted in updating my portfolio page.
+In this page I worked with React JS tools.
 
 ## Acceptance Criteria
 
