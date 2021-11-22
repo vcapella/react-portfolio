@@ -1,5 +1,11 @@
 # React Portfolio Project
 
+## PROJECT DESCRIPTION
+
+This project consisted an update on my portfolio page.
+
+In this page I will work with React JS tools to build my new portfolio page.
+
 ## Acceptance Criteria
 
 ```md
