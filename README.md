@@ -1,5 +1,10 @@
 # React Portfolio Project
 
+### PROJECT DESCRIPTION
+
+This project consisted in updating my portfolio page.
+In this page I worked with React JS tools.
+
 ## Acceptance Criteria
 
 ```md
@@ -32,9 +37,10 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Mock-Up
 
+![image](https://user-images.githubusercontent.com/90168071/142930246-ce73e689-9b36-484c-9e1b-7b4a2fadfb74.png)
 
 
 
 ## Live Link
- [My portoflio page](https://vcapella.github.io/Portfolio_v2/)
+ [My portoflio page](https://react-portfolio-vcap.herokuapp.com/)
 
