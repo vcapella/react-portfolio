@@ -1,5 +1,5 @@
 /* Universal Selector */
-* {
+/* * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -7,21 +7,19 @@
   background-color: #fff;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-}
+} */
 
 a {
   font-size: 18px;
   text-decoration: none;
+  padding: 0px 15px;
 }
 
-nav {
-  list-style: none;
-  display: inline-block;
-  margin: auto;
-  padding: 10px 150px 10px;
-  align-items: center;
-  word-spacing: 15px;
-  letter-spacing: 0;
+.navbar {
+  display: flex;
+  justify-content: center;
+  margin: 0 20% 0 20%;
+  padding-top: 10px;
 }
 
 nav a {

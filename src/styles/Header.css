@@ -1,4 +1,4 @@
-/* Universal Selector */
+/* Universal Selector
 * {
   box-sizing: border-box;
   margin: 0;
@@ -6,22 +6,21 @@
   color: black;
   background-color: #fff;
   font-family: "Courier New", Courier, monospace;
-}
+} */
 
-li,
+/* li,
 a {
   font-size: 20px;
   text-decoration: none;
-}
+} */
 
-header {
+/* header {
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  padding: 0px 5%;
-}
+} */
 
-h2 {
+/* h2 {
   font-size: 30px;
   text-indent: 6.5%;
   line-height: 1.5;
@@ -38,4 +37,4 @@ p {
   font-size: 20px;
   text-indent: 6.5%;
   line-height: 1.5;
-}
+} */
