@@ -16,7 +16,8 @@ a {
 nav {
   list-style: none;
   display: inline-block;
-  padding: 0px 150px 5px;
+  margin: auto;
+  padding: 10px 150px 10px;
   align-items: center;
 }
 
@@ -26,5 +27,5 @@ nav a {
 nav a:hover {
   transition: all 0.3s ease 0s;
   color: rgb(82, 71, 71);
-  text-decoration: underline;
+  font-weight: bold;
 }
