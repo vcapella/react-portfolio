@@ -31,7 +31,7 @@ const SocialMedia = [
 export default function Contact() {
   return (
     <div>
-      <h2>Contact Me</h2>
+      <h2>Find Me</h2>
       <p>capella89@outlook.com</p>
       {SocialMedia.map((socialM) => (
         <FindMe
