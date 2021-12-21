@@ -48,7 +48,7 @@ const projects = [
 
 export default function Display() {
   return (
-    <div>
+    <div className="Proj-props">
       {projects.map((project) => (
         <Projects
           name={project.name}

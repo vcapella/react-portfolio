@@ -60,3 +60,9 @@
 .repo-btn:hover {
   opacity: 0.6;
 }
+
+.Proj-props {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
