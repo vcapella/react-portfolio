@@ -20,7 +20,7 @@ function Navbar() {
   return (
     <nav style={styles.navbarStyle} className="navbar">
       <a href="/">Intro </a>
-      <a href="/portfolio">Portfolio </a>
+      <a href="/projects">Projects </a>
       <a href="/find-me">Find Me </a>
       <a href="./assets/PLACEHOLDER FOR MY RESUME.pdf" download target="_blank">
         My Resume

@@ -1,5 +1,5 @@
 import React from "react";
-import Portfolio from "./Portfolio";
+import Projects from "./Projects";
 
 const projects = [
   {
@@ -50,7 +50,7 @@ export default function Display() {
   return (
     <div>
       {projects.map((project) => (
-        <Portfolio
+        <Projects
           name={project.name}
           image={project.image}
           repo={project.repo}
