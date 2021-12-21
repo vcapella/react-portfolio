@@ -1,6 +1,6 @@
 import React from "react";
 import "../styles/Navbar.css";
-
+import resume from "../assets/victor-capella-resume.pdf";
 // By importing the Navbar.css file, it is added to the DOM whenever this component loads
 
 // We can also style a component inside of its JavaScript file by adding style properties to its rendered elements
@@ -22,7 +22,7 @@ function Navbar() {
       <a href="/">Intro </a>
       <a href="/projects">Projects </a>
       <a href="/find-me">Find Me </a>
-      <a href="./assets/PLACEHOLDER FOR MY RESUME.pdf" download target="_blank">
+      <a href={resume} target="_blank" rel="noreferrer">
         My Resume
       </a>
     </nav>

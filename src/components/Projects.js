@@ -6,12 +6,17 @@ export default function Project(props) {
     <div className="container">
       <div className="title-repo">
         <h2 className="h2-project">{props.name}</h2>
-        <a className="repo-btn" href={props.repo}>
+        <a
+          className="repo-btn"
+          href={props.repo}
+          target="_blank"
+          rel="noreferrer"
+        >
           Repo
         </a>
       </div>
 
-      <a href={props.live}>
+      <a href={props.live} target="_blank" rel="noreferrer">
         <img className="project-img" src={props.image} alt="Mockup" />
       </a>
     </div>

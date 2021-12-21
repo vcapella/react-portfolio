@@ -6,7 +6,7 @@ const projects = [
     name: "Studiously",
     image: "images/studiously.jpg",
     repo: "https://github.com/AarKaiser/studiously",
-    live: "hhttps://studiously.herokuapp.com/",
+    live: "https://studiously.herokuapp.com/",
     id: 1,
   },
   {
