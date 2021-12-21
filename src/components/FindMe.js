@@ -40,7 +40,9 @@ export default function Contact() {
           />
         ))}
       </div>
-      <p className="email-link">capella89@outlook.com</p>
+      <a className="email-link" href="mailto:capella89@outlook.com">
+        capella89@outlook.com
+      </a>
     </div>
   );
 }
