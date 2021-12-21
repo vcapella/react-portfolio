@@ -10,8 +10,24 @@
 } */
 
 .contact-format {
-  display: inline-flex;
-  margin-left: 220px;
-  height: 200px;
-  width: 200px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 10%;
+  justify-content: center;
+}
+
+.contact-me-link {
+  max-width: auto;
+  max-height: auto;
+}
+
+.email-link {
+  display: flex;
+  font-size: 30px;
+  font-weight: bold;
+  justify-content: center;
+}
+.email-link:hover {
+  cursor: pointer;
+  text-decoration: underline;
 }

@@ -31,15 +31,16 @@ const SocialMedia = [
 export default function Contact() {
   return (
     <div>
-      <h2>Find Me</h2>
-      <p>capella89@outlook.com</p>
-      {SocialMedia.map((socialM) => (
-        <FindMe
-          image={socialM.image}
-          social={socialM.social}
-          key={socialM.id}
-        />
-      ))}
+      <div class="contact-format">
+        {SocialMedia.map((socialM) => (
+          <FindMe
+            image={socialM.image}
+            social={socialM.social}
+            key={socialM.id}
+          />
+        ))}
+      </div>
+      <p className="email-link">capella89@outlook.com</p>
     </div>
   );
 }

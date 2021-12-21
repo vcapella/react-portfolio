@@ -3,7 +3,7 @@ import "../styles/FindMe.css";
 
 export default function FindMe(props) {
   return (
-    <div id="contact-me-link" class="contact-format">
+    <div className="contact-me-link">
       <a href={props.social}>
         <img src={props.image} alt={props.att} />
       </a>
