@@ -26,6 +26,7 @@
   font-size: 30px;
   font-weight: bold;
   justify-content: center;
+  margin-bottom: 50px;
 }
 .email-link:hover {
   cursor: pointer;
