@@ -41,7 +41,7 @@ export default function Contact() {
         ))}
       </div>
       <a className="email-link" href="mailto:capella89@outlook.com">
-        capella89@outlook.com
+        capella89@outlook.co
       </a>
     </div>
   );
