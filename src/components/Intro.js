@@ -28,7 +28,7 @@ function Intro() {
         full-stack certificate from the University of Toronto Coding Bootcamp.
       </p>
       <p className="p-intro">
-        MMy skill set includes Javascript, HTML, Node.js, React and CSS,
+        My skill set includes Javascript, HTML, Node.js, React and CSS,
         including experience with modern frameworks like bootstrap, tailwind and
         bulma as seen in my projects. I like building things from scratch - like
         this portfolio - and I’m always eager to learn new things.
