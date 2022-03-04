@@ -12,7 +12,7 @@ const styles = {
 function Footer() {
   return (
     <footer style={styles.footerStyle} className="footer">
-      <p className="p-footer">2021 Victor Capella • All Rights Reserved</p>
+      <p className="p-footer">2022 Victor Capella • All Rights Reserved</p>
     </footer>
   );
 }
