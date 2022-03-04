@@ -11,18 +11,18 @@
 
 .intro-h2 {
   font-size: 28px;
-  line-height: 2;
+  line-height: 1.5;
   margin-left: 22%;
   margin-right: 22%;
 }
 
 .p-intro {
   font-size: 14px;
-  line-height: 2;
+  line-height: 1.5;
   max-width: 60%;
   margin-left: 22%;
   margin-right: 22%;
-  padding-bottom: 20px;
+  padding-bottom: 25px;
   justify-content: center;
 }
 
