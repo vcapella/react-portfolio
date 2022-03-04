@@ -15,18 +15,24 @@
   margin-top: 10%;
   justify-content: center;
 }
-
+/* 
 .contact-me-link {
   max-width: auto;
   max-height: auto;
+} */
+
+.contact-me-link img {
+  max-width: 50px;
+  max-height: 50px;
 }
 
 .email-link {
   display: flex;
-  font-size: 30px;
+  font-size: 18px;
   font-weight: bold;
   justify-content: center;
   margin-bottom: 50px;
+  margin-top: 25px;
 }
 .email-link:hover {
   cursor: pointer;
