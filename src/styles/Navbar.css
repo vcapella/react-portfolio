@@ -10,7 +10,7 @@
 } */
 
 a {
-  font-size: 18px;
+  font-size: 14px;
   text-decoration: none;
   padding: 0px 15px;
 }
@@ -18,8 +18,9 @@ a {
 .navbar {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
-  margin: 0 20% 0 20%;
+  justify-content: space-around;
+  margin-left: 20vw;
+  margin-right: 20vw;
   padding-top: 10px;
 }
 
