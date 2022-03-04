@@ -22,12 +22,12 @@
   max-width: 60%;
   margin-left: 22%;
   margin-right: 22%;
-  padding-bottom: 5px;
+  padding-bottom: 20px;
   justify-content: center;
 }
 
 .img-intro {
-  max-width: 15%;
+  max-width: 17.5%;
   display: inline-flex;
   border-radius: 10px;
   margin-top: 5%;
