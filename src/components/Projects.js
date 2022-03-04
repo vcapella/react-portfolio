@@ -1,5 +1,6 @@
 import React from "react";
 import "../styles/Projects.css";
+import gitLogo from "../assets/github-logo.png";
 
 export default function Project(props) {
   return (
@@ -7,12 +8,12 @@ export default function Project(props) {
       <div className="title-repo">
         <h2 className="h2-project">{props.name}</h2>
         <a
-          className="repo-btn"
+          // className="repo-btn"
           href={props.repo}
           target="_blank"
           rel="noreferrer"
         >
-          Repo
+          <img className="repo-btn" src={gitLogo} alt="Github button" />
         </a>
       </div>
 
