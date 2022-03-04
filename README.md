@@ -7,7 +7,8 @@ In this page I worked with React JS tools.
 
 ## Mock-Up
 
-![mockup](https://user-images.githubusercontent.com/90168071/146981108-d2ecba8b-9667-459e-a604-3e0c3edbf30e.JPG)
+![mockup]<img width="831" alt="Screen Shot 2022-03-03 at 10 42 44 PM" src="https://user-images.githubusercontent.com/90168071/156695457-91d13b4a-60b7-45da-be8e-ec9056a7ce6e.png">
+
 
 
 
