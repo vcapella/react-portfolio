@@ -27,7 +27,7 @@ function Intro() {
         possibilities. Fast forward to November 2021 and I just got my
         full-stack certificate from the University of Toronto Coding Bootcamp.
       </p>
-      <p className="p-intro">
+      <p className="p-intro gap">
         My skill set includes Javascript, HTML, Node.js, React and CSS,
         including experience with modern frameworks like bootstrap, tailwind and
         bulma as seen in my projects. I like building things from scratch - like
